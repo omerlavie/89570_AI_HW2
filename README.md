@@ -1,4 +1,4 @@
-# 89570_AI_HW
+# 89570_AI_HW2
 Implementation of KNN, ID3 and Naive Bayes algorithms in homeworks #2 in Bar-Ilan university artificial intelligence course (89-570).
 
 ## How to run
